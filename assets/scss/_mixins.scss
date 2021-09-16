@@ -1,0 +1,14 @@
+@mixin font-16 {
+  font-size: 16px;
+  font-family: "plus_jakarta_displayregular";
+}
+@mixin font-20 {
+  font-size: 20px;
+  font-family: "plus_jakarta_displayregular";
+}
+@mixin border-variant-1 {
+  background: linear-gradient(90deg, #9962cb, #fb53ba) !important;
+}
+@mixin shadow {
+  transition: all 0.25s ease-in-out;
+}
